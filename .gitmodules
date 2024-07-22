@@ -1,0 +1,12 @@
+[submodule "free5gc-compose"]
+	path = free5gc-compose
+	url = https://github.com/free5gc/free5gc-compose
+[submodule "docker-open5gs"]
+	path = docker-open5gs
+	url = https://github.com/Borjis131/docker-open5gs
+[submodule "oai-cn5g-fed"]
+	path = oai-cn5g-fed
+	url = https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-fed
+[submodule "ueransim"]
+	path = ueransim
+	url = https://github.com/louisroyer-docker/ueransim
